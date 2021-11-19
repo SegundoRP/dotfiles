@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alvaro.rp1593@gmail.com
+	name = segundo rebaza
